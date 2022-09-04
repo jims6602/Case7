@@ -4,7 +4,7 @@
 FROM tomcat:8.5
 
 #Author of the Docker File
-LABEL "Maintainer"="Cusey"
+LABEL "Maintainer"="Smith"
 
 #Set Catalina HOME and JAVA_OPTS
 ENV CATALINA_BASE:   /usr/local/tomcat
